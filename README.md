@@ -1,1 +1,1 @@
-# FraudDetection-BlueShiftAcademy
+# Fraud Detection - BlueShiftAcademy
