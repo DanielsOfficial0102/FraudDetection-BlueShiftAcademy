@@ -12,6 +12,7 @@ Modelagem com Aprendizado de Máquina: Aplicar técnicas de aprendizado de máqu
 ## Tecnologias Utilizadas
 
 - **Kaggle** - Plataforma para Busca de Dados
+- **Miro** - Planejamento do Projeto
 - **Azure** - Armazenamento Na Nuvem Ultilizando o BlobStorage
 - **Python** - Tratamento de Dados
 - **SQLServer** - Banco de dados relacional utilizado por padrão
