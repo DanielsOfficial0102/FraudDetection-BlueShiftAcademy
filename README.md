@@ -24,3 +24,9 @@ Este projeto visa detectar fraudes em transações de cartão de crédito utiliz
 A arquitetura abaixo descreve as principais etapas e fluxos do projeto, desde a ingestão dos dados até a entrega de insights por meio de dashboards:
 
 ![Arquitetura do Projeto](Imagens/arquitetura_projeto.png)
+
+## Metodologia Ágil
+
+A metodologia abaixo descreve o planejamento por Sprints, desde a Encontrar a Fonte dos dados á Visualições com o B.I:
+
+![Arquitetura do Projeto](Imagens/Planejamento.jpg)
