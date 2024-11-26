@@ -18,7 +18,7 @@ Modelagem com Aprendizado de Máquina: Aplicar técnicas de aprendizado de máqu
 - **GitHub** - Versionamento Do Projeto
 - **Power B.I** - Dashboard
 
-- ## Arquitetura do Projeto
+## Arquitetura do Projeto
 
 Abaixo está a representação da arquitetura utilizada neste projeto:
 
