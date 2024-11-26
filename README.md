@@ -27,6 +27,11 @@ A arquitetura abaixo descreve as principais etapas e fluxos do projeto, desde a 
 
 ## Metodologia Ágil
 
-A metodologia abaixo descreve o planejamento por Sprints, desde a Encontrar a Fonte dos dados á Visualições com o B.I:
+Este projeto adota a Metodologia Ágil, organizando as tarefas em sprints desde a identificação da fonte de dados até as visualizações em BI. Cada etapa é gerenciada em um quadro kanban para monitoramento eficiente das atividades.
+
+Sprint Planning:
+- Fazer: Atividades planejadas para execução futura, como documentação e novos dashboards.
+- Fazendo: Tarefas atualmente em desenvolvimento.
+- Feito: Itens concluídos, incluindo pipelines de ETL, segurança e CRUDs de dados.
 
 ![Arquitetura do Projeto](Imagens/Planejamento.jpg)
