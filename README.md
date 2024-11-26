@@ -1,12 +1,12 @@
 # Detecção De Fraude - BlueShiftAcademy
 
-O projeto será estruturado em etapas claras, abrangendo desde a compreensão dos dados até o desenvolvimento e implantação. O foco está em:
+- O projeto será estruturado em etapas claras, abrangendo desde a compreensão dos dados até o desenvolvimento e implantação. O foco está em:
 
-Compreensão dos Dados: Explorar e entender os dados históricos de transações disponíveis.
+- Compreensão dos Dados: Explorar e entender os dados históricos de transações disponíveis.
 
-Identificação de Padrões: Analisar o comportamento dos clientes para identificar desvios em padrões de gastos que possam indicar fraudes.
+- Identificação de Padrões: Analisar o comportamento dos clientes para identificar desvios em padrões de gastos que possam indicar fraudes.
 
-Modelagem com Aprendizado de Máquina: Aplicar técnicas de aprendizado de máquina para criar um modelo preditivo capaz de identificar possíveis fraudes com precisão.
+- Modelagem com Aprendizado de Máquina: Aplicar técnicas de aprendizado de máquina para criar um modelo preditivo capaz de identificar possíveis fraudes com precisão.
 
 
 ## Tecnologias Utilizadas
@@ -21,7 +21,7 @@ Modelagem com Aprendizado de Máquina: Aplicar técnicas de aprendizado de máqu
 
 ## Arquitetura do Projeto
 
-Abaixo está a representação da arquitetura utilizada neste projeto:
+- Abaixo está a representação da arquitetura utilizada neste projeto:
 
 ![Arquitetura do Projeto](Imagens/arquitetura_projeto.png)
 
