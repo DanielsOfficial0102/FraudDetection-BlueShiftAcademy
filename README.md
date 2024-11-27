@@ -1,6 +1,6 @@
-# Detecção de Fraude em Transações de Cartão de Crédito - BlueShiftAcademy
+# Detecção de Fraude em Transações Bancárias - BlueShiftAcademy
 
-Este projeto visa detectar fraudes em transações de cartão de crédito utilizando técnicas de aprendizado de máquina. O objetivo é desenvolver um sistema robusto que identifique comportamentos fraudulentos de maneira eficiente, ajudando a proteger os clientes e reduzir prejuízos financeiros. A abordagem inclui desde a análise de dados até a implantação de um modelo preditivo.
+Este projeto visa detectar fraudes em transações bancárias de um aplicativo de pagamentos móveis. O objetivo é desenvolver um sistema robusto que identifique comportamentos fraudulentos de maneira eficiente, ajudando a proteger os clientes e reduzir prejuízos financeiros. A abordagem inclui desde a análise de dados até a implantação de um modelo preditivo.
 
 ## Etapas do Projeto
 
