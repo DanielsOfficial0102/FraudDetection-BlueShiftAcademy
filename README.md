@@ -1,6 +1,6 @@
 # 🚨 Detecção de Fraude em Transações Bancárias - BlueShiftAcademy
 
-Este projeto é uma solução completa para detectar fraudes em transações bancárias de aplicativos de pagamento móvel. Ele combina aprendizado de máquina, manipulação de dados e visualização para oferecer um sistema robusto e seguro que protege os clientes contra atividades fraudulentas.
+Este projeto é uma solução completa para detectar fraudes em transações bancárias de aplicativos de pagamento móvel. Ele combina Manipulação de dados e visualização para oferecer um sistema robusto e seguro que protege os clientes contra atividades fraudulentas.
 
 ---
 
@@ -10,6 +10,23 @@ Este projeto é uma solução completa para detectar fraudes em transações ban
 2. **Identificação de Padrões**: Identificação de desvios de comportamento em padrões de gastos.
 3. **Modelagem com Aprendizado de Máquina**: Criação de um modelo preditivo para identificar fraudes.
 4. **Implantação**: Implementação do modelo em produção, integrando APIs e tecnologias na nuvem.
+
+---
+
+## 🎯 **Objetivo**
+
+O objetivo deste projeto é desenvolver uma solução eficiente e confiável para a **detecção de fraudes em transações bancárias**, utilizando técnicas de aprendizado de máquina e análise de dados. A proposta busca:
+
+- **Identificar comportamentos fraudulentos em transações financeiras** por meio da análise de padrões de comportamento.
+- **Proteger clientes e reduzir perdas financeiras** causadas por atividades fraudulentas.
+- **Automatizar a detecção de anomalias em tempo real**, garantindo segurança nas operações bancárias.
+- **Oferecer insights visuais e analíticos** através de dashboards interativos e relatórios para tomada de decisão.
+- Integrar tecnologias modernas como Python, SQL Server, Azure e Power BI para criar uma solução robusta e escalável.
+
+A entrega final do projeto incluirá um sistema funcional com:
+1. Interface gráfica para manipulação das transações (CRUD).
+2. Modelo preditivo implementado para detectar fraudes.
+3. Dashboard interativo para análise visual dos resultados e identificação de fraudes.
 
 ---
 
@@ -91,8 +108,24 @@ Este projeto adota a Metodologia Ágil para o gerenciamento das atividades, util
 
 ---
 
-## 🚀 **Como Configurar o Projeto**
+## 🏁 **Demonstração do Sistema**
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/DanielsOfficial0102/FraudDetection-BlueShiftAcademy.git
+### 📋 **Interface Gráfica (CRUD)**
+A interface gráfica desenvolvida permite:
+- **Inserção de transações financeiras**: Adicionar novas transações ao banco de dados com todas as informações necessárias.
+- **Atualização e exclusão de registros**: Atualizar informações existentes ou excluir transações do banco de dados.
+- **Exibição de histórico recente**: Visualizar as 10 transações mais recentes diretamente na interface ao iniciar o sistema.
+
+#### **Exemplo da Interface CRUD:**
+![CRUD Interface](Imagens/Crud.png)
+
+---
+
+### 📊 **Dashboard Interativo**
+O dashboard foi criado no **Power BI** e permite a análise dinâmica das transações, apresentando:
+- **Padrões de comportamento dos clientes**: Análise de hábitos financeiros para identificar comportamentos atípicos.
+- **Identificação de fraudes**: Destaque de transações classificadas como fraudulentas pelo modelo preditivo.
+
+#### **Exemplo do Dashboard:**
+![Dashboard Demo](Imagens/Dashboard.png)
+
