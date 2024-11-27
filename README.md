@@ -1,32 +1,22 @@
 # 🚨 Detecção de Fraude em Transações Bancárias - BlueShiftAcademy
 
-Este projeto é uma solução completa para detectar fraudes em transações bancárias de aplicativos de pagamento móvel. Ele combina Manipulação de dados e visualização para oferecer um sistema robusto e seguro que protege os clientes contra atividades fraudulentas.
-
----
-
-## 🗂️ **Etapas do Projeto**
-
-1. **Compreensão dos Dados**: Exploração dos dados históricos de transações.
-2. **Identificação de Padrões**: Identificação de desvios de comportamento em padrões de gastos.
-3. **Modelagem com Aprendizado de Máquina**: Criação de um modelo preditivo para identificar fraudes.
-4. **Implantação**: Implementação do modelo em produção, integrando APIs e tecnologias na nuvem.
+Este projeto apresenta uma solução robusta para detectar fraudes em transações bancárias de aplicativos de pagamento móvel. Ele utiliza técnicas de aprendizado de máquina, manipulação de dados e visualização para proteger clientes contra atividades fraudulentas e reduzir prejuízos financeiros.
 
 ---
 
 ## 🎯 **Objetivo**
 
-O objetivo deste projeto é desenvolver uma solução eficiente e confiável para a **detecção de fraudes em transações bancárias**, utilizando técnicas de aprendizado de máquina e análise de dados. A proposta busca:
+O objetivo deste projeto é desenvolver uma solução eficiente e confiável para a **detecção de fraudes em transações bancárias**, utilizando:
 
-- **Identificar comportamentos fraudulentos em transações financeiras** por meio da análise de padrões de comportamento.
-- **Proteger clientes e reduzir perdas financeiras** causadas por atividades fraudulentas.
-- **Automatizar a detecção de anomalias em tempo real**, garantindo segurança nas operações bancárias.
-- **Oferecer insights visuais e analíticos** através de dashboards interativos e relatórios para tomada de decisão.
-- Integrar tecnologias modernas como Python, SQL Server, Azure e Power BI para criar uma solução robusta e escalável.
+- **Análise de padrões de comportamento financeiro** para identificar anomalias.
+- **Automatização da detecção de anomalias em tempo real**, garantindo segurança nas operações.
+- **Dashboards interativos** para visualização e tomada de decisão.
+- Tecnologias modernas como Python, SQL Server, Azure e Power BI, criando um sistema escalável e seguro.
 
-A entrega final do projeto incluirá um sistema funcional com:
-1. Interface gráfica para manipulação das transações (CRUD).
-2. Modelo preditivo implementado para detectar fraudes.
-3. Dashboard interativo para análise visual dos resultados e identificação de fraudes.
+A entrega final incluirá:
+1. Interface gráfica para manipulação de transações (CRUD).
+2. Modelo preditivo para detectar fraudes.
+3. Dashboard interativo para análise de resultados.
 
 ---
 
@@ -35,6 +25,15 @@ A entrega final do projeto incluirá um sistema funcional com:
 A arquitetura abrange desde a ingestão de dados até a entrega de insights via dashboards interativos:
 
 ![Arquitetura do Projeto](Imagens/arquitetura_projeto.png)
+
+---
+
+## 🗂️ **Etapas do Projeto**
+
+1. **Compreensão dos Dados**: Exploração dos dados históricos de transações.
+2. **Identificação de Padrões**: Análise de comportamento financeiro para identificar anomalias.
+3. **Modelagem com Aprendizado de Máquina**: Treinamento de um modelo para prever possíveis fraudes.
+4. **Implantação**: Integração do modelo com APIs e tecnologias na nuvem.
 
 ---
 
@@ -93,39 +92,42 @@ A arquitetura abrange desde a ingestão de dados até a entrega de insights via 
 
 ## 📋 **Metodologia Ágil**
 
-Este projeto adota a Metodologia Ágil para o gerenciamento das atividades, utilizando um quadro kanban para organizar as tarefas. O fluxo está dividido em:
+Adotamos a Metodologia Ágil para gerenciar as atividades, utilizando um quadro kanban para organizar as tarefas. O fluxo é dividido em:
 
 ### Sprint Planning:
-- **Fazer**: Atividades planejadas para execução futura, como documentação e criação de dashboards.
-- **Fazendo**: Tarefas que estão sendo desenvolvidas no momento.
-- **Feito**: Itens concluídos, como pipelines de ETL, segurança e CRUDs de dados.
+- **Fazer**: Planejamento de tarefas futuras, como documentação e criação de dashboards.
+- **Fazendo**: Tarefas atualmente em desenvolvimento.
+- **Feito**: Atividades concluídas, incluindo pipelines de ETL e integração de segurança.
 
 ![Planejamento Ágil](Imagens/Planejamento.jpg)
 
-### Gerenciamento de Tarefas:
-- As tarefas são organizadas em sprints, com ciclos curtos e revisões frequentes para garantir a entrega contínua de valor.
-- Reuniões diárias de acompanhamento para monitorar o progresso e identificar impedimentos.
-
 ---
 
-## 🏁 **Demonstração do Sistema**
+## 🖥️ **Demonstração Prática do Sistema**
 
 ### 📋 **Interface Gráfica (CRUD)**
-A interface gráfica desenvolvida permite:
-- **Inserção de transações financeiras**: Adicionar novas transações ao banco de dados com todas as informações necessárias.
-- **Atualização e exclusão de registros**: Atualizar informações existentes ou excluir transações do banco de dados.
-- **Exibição de histórico recente**: Visualizar as 10 transações mais recentes diretamente na interface ao iniciar o sistema.
+A interface permite:
+- **Inserção de transações financeiras**: Adicionar novas transações ao banco.
+- **Atualização e exclusão de registros**: Modificar ou excluir dados.
+- **Exibição de histórico recente**: Mostrar as 10 transações mais recentes ao inicializar.
 
-#### **Exemplo da Interface CRUD:**
+#### Exemplo da Interface CRUD:
 ![CRUD Interface](Imagens/Crud.png)
 
 ---
 
 ### 📊 **Dashboard Interativo**
-O dashboard foi criado no **Power BI** e permite a análise dinâmica das transações, apresentando:
-- **Padrões de comportamento dos clientes**: Análise de hábitos financeiros para identificar comportamentos atípicos.
-- **Identificação de fraudes**: Destaque de transações classificadas como fraudulentas pelo modelo preditivo.
+Criado no Power BI, o dashboard apresenta:
+- **Padrões de comportamento dos clientes**: Identificar hábitos financeiros.
+- **Detecção de fraudes**: Destaque de transações suspeitas pelo modelo preditivo.
 
-#### **Exemplo do Dashboard:**
+#### Exemplo do Dashboard:
 ![Dashboard Demo](Imagens/Dashboard.png)
 
+---
+
+## 🚀 **Como Configurar o Projeto**
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/DanielsOfficial0102/FraudDetection-BlueShiftAcademy.git
