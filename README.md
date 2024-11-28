@@ -122,7 +122,7 @@ Criado no Power BI, o dashboard apresenta:
 - **Detecção de fraudes**: Destaque de transações suspeitas pelo modelo preditivo.
 
 #### Exemplo do Dashboard:
-![Dashboard Demo](Imagens/Dashboard.png)
+![Dashboard](Imagens/Dashboard.png)
 
 ---
 
