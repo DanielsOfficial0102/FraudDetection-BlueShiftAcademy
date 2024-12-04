@@ -22,9 +22,17 @@ A entrega final incluirá:
 
 ## 📊 **Arquitetura do Projeto**
 
-A arquitetura abrange desde a ingestão de dados até a entrega de insights via dashboards interativos:
+A arquitetura do projeto consiste em uma série de serviços interconectados para garantir a escalabilidade e segurança da solução. Abaixo, a imagem ilustra a estrutura geral da arquitetura:
 
 ![Arquitetura do Projeto](Imagens/arquitetura_projeto.png)
+
+### **Componentes Principais:**  
+- **Fonte de Dados:** Dataset do Kaggle contendo informações sobre transações financeiras.  
+- **Azure Blob Storage:** Armazenamento seguro e eficiente para arquivos.  
+- **Azure Key Vault:** Gerenciamento seguro das credenciais de acesso aos serviços Azure.  
+- **SQL Server:** Banco de dados para armazenar e consultar os dados processados.  
+- **Python (Pandas):** Processamento dos dados e carga no banco de dados SQL Server.  
+- **Power BI:** Criação de dashboards interativos para análise visual das fraudes.
 
 ---
 
