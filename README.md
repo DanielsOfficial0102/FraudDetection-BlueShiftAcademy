@@ -1,6 +1,6 @@
 # 🚨 Detecção de Fraude em Transações Bancárias - BlueShiftAcademy
 
-Este projeto apresenta uma solução robusta para detectar fraudes em transações bancárias de aplicativos de pagamento móvel. Ele utiliza técnicas de aprendizado de máquina, manipulação de dados e visualização para proteger clientes contra atividades fraudulentas e reduzir prejuízos financeiros.
+Este projeto apresenta uma solução robusta para detectar fraudes em transações bancárias de aplicativos de pagamento móvel. Ele utiliza manipulação de dados e visualização para proteger clientes contra atividades fraudulentas e reduzir prejuízos financeiros.
 
 ---
 
