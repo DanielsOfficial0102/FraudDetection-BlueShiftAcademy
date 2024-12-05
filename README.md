@@ -24,7 +24,7 @@ A entrega final incluirá:
 
 A arquitetura do projeto consiste em uma série de serviços interconectados para garantir a escalabilidade e segurança da solução. Abaixo, a imagem ilustra a estrutura geral da arquitetura:
 
-![Arquitetura do Projeto](Imagens/Arquitetura Do Projeto.png)
+![Arquitetura do Projeto](Imagens/Arquitetura_Do_Projeto.png)
 
 ### **Componentes Principais:**  
 - **Fonte de Dados:** Dataset do Kaggle contendo informações sobre transações financeiras.  
